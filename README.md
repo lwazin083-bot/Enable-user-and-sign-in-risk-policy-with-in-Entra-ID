@@ -9,7 +9,7 @@ This demonstrates the implementation and management of user-risk policies in Mic
 
 -The sign-in risk policy evaluates the probability that a specific authentication event is unauthorised.
 
--Multi-factor registration policy provides a second layer to user sign-ins. A means to verify who you are more than just username and password. 
+-Multi-factor registration policy provides a second layer to user sign-ins. A means to verify who you are more than just the username and password. 
 <br />
 
 
